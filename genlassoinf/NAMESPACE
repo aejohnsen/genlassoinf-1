@@ -2,7 +2,6 @@
 
 export(declutter)
 export(dualpathSvd2)
-export(dualpathSvd3)
 export(get.modelinfo)
 export(get.states)
 export(getGammat.naive)
